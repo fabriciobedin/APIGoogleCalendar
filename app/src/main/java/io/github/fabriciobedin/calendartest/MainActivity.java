@@ -40,16 +40,14 @@ import java.util.Calendar;
 import java.util.Collection;
 import java.util.HashSet;
 
-
-
-import io.github.hidroh.calendar.content.CalendarCursor;
-import io.github.hidroh.calendar.content.EventCursor;
-import io.github.hidroh.calendar.content.EventsQueryHandler;
-import io.github.hidroh.calendar.weather.WeatherSyncService;
-import io.github.hidroh.calendar.widget.AgendaAdapter;
-import io.github.hidroh.calendar.widget.AgendaView;
-import io.github.hidroh.calendar.widget.CalendarSelectionView;
-import io.github.hidroh.calendar.widget.EventCalendarView;
+//import io.github.hidroh.calendar.content.CalendarCursor;
+//import io.github.hidroh.calendar.content.EventCursor;
+//import io.github.hidroh.calendar.content.EventsQueryHandler;
+//import io.github.hidroh.calendar.weather.WeatherSyncService;
+//import io.github.hidroh.calendar.widget.AgendaAdapter;
+//import io.github.hidroh.calendar.widget.AgendaView;
+//import io.github.hidroh.calendar.widget.CalendarSelectionView;
+//import io.github.hidroh.calendar.widget.EventCalendarView;
 
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<Cursor> {
 
